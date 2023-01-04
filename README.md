@@ -1,3 +1,2 @@
-# test-repo
-This is a test repo 
-HAPPY NEW YEAR!
+# Doing the same  
+print("HAPPY NEW YEAR")
