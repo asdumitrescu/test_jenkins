@@ -1,3 +1,2 @@
-# Doing the same  
-print("HAPPY NEW YEAR 2023")
+# Jenkins Test JOB
 Hello Andrei
